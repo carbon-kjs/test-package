@@ -1,4 +1,5 @@
 REIEvents.removeCategories((event) => {
+  //major change here
   const removeCategories = [
     "create:draining",
     "create:automatic_shapeless",

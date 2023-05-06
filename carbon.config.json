@@ -1,6 +1,6 @@
 {
   "name": "test-package",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Malezja",
   "minecraftVersion": "1.19.2",
   "description": "Test package for the package manager",
